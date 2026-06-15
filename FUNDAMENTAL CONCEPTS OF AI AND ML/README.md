@@ -1,6 +1,6 @@
 # PURPOSE OF THE REPOSITORY
 
-By the end of this study, the students will gain a strong hold on AI and ML fundamentals, real-world applications, ethical considerations, and the knowledge required to begin building intelligent systems
+By the end of this study, the students will gain a strong hold on AI and ML fundamentals, real-world applications and ethical considerations. The goal is to help beginners understand how intelligent systems are developed and applied to solve practical problems across industries.
 
 
 # TABLE OF CONTENTS
