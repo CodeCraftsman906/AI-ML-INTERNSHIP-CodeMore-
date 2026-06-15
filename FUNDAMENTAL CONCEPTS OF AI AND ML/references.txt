@@ -1,0 +1,15 @@
+REFERENCES
+
+https://pmc.ncbi.nlm.nih.gov/ (NATIONAL LIBRARY OF MEDICINE)
+
+https://www.geeksforgeeks.org/ (GeeksforGeeks)
+
+https://cloud.google.com/learn?hl=en (Google Cloud)
+
+https://www.canadianctb.ca/blog-and-news/understanding-the-basics-of-ai-and-machine-learning (CANADIAN COLLEGE OF TECHNOLOGY AND BUSINESS)
+
+https://www.larksuite.com/en_us/topics/ai-glossary (Lark)
+
+https://chatgpt.com/share/6a2fa8d5-79bc-83e8-b922-8c88276c8599 (Chatgpt Search History)
+
+https://www.udemy.com/course/introduction-to-artificial-intelligence-c/ (UDEMY)
