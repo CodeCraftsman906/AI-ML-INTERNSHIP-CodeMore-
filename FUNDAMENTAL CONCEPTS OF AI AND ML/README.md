@@ -1,3 +1,8 @@
+# PURPOSE OF THE REPOSITORY
+
+By the end of this study, the students will gain a strong hold on AI and ML fundamentals, real-world applications, ethical considerations, and the knowledge required to begin building intelligent systems
+
+
 # TABLE OF CONTENTS
 
 UNIT 1: INTRODUCTION TO ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING
@@ -192,7 +197,3 @@ Fair
 Accountable
 Reliable
 Safe
-
-# PURPOSE OF THE REPOSITORY
-
-By the end of this study, the students will gain a strong hold on AI and ML fundamentals, real-world applications, ethical considerations, and the knowledge required to begin building intelligent systems
