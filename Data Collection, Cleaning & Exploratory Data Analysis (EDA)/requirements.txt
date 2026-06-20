@@ -1,0 +1,61 @@
+So far, we have used following Python libraries: 
+
+Pandas
+NumPy
+Matplotlib
+Seaborn
+
+Import Statements Used
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+Functions and Methods Used from Each Library
+
+1. Pandas (pd)
+
+pd.read_csv()
+df.head()
+df.shape()
+df.columns()
+df.dtypes()
+df.describe()
+df.isna()
+df.sum()
+df.dropna()
+df.duplicated()
+df.mean()
+df.median()
+df.mode()
+df.min()
+df.max()
+
+2. Matplotlib (plt)
+
+plt.figure()
+plt.show()
+plt.title()
+plt.xticks()
+
+3. Seaborn (sns)
+
+sns.heatmap()
+sns.boxplot()
+sns.countplot()
+sns.scatterplot()
+sns.histplot()
+
+
+
+
+
+
+
+
+
+
+
+
+
