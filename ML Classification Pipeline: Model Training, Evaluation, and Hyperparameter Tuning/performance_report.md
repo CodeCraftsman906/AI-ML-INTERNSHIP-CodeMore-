@@ -1,6 +1,6 @@
-                                                          # Performance Analysis Report
+# Performance Analysis Report
 
-## Project Overview
+# Project Overview
 
 The objective of this project was to develop and evaluate supervised machine learning models capable of classifying the target variable (`Feature13`) using a processed dataset. After data preprocessing, feature engineering, and train-test splitting, two baseline classification algorithms—Logistic Regression and Decision Tree Classifier—were trained and evaluated. The best-performing model was further optimized using GridSearchCV for hyperparameter tuning.
 
