@@ -1,6 +1,4 @@
-# The objective of this project was to build a supervised machine learning classification model capable of predicting the target variable (Feature13)
-# using the available features in the dataset. The project follows the complete machine learning workflow, including model training, evaluation, 
-# comparison, and optimization.
+# The objective of this project was to build a supervised machine learning classification model capable of predicting the target variable using the available features in the dataset. The project follows the complete machine learning workflow, including model training, evaluation, comparison, and optimization.
 
 
 # WORKFLOW OF THE PROJECT
