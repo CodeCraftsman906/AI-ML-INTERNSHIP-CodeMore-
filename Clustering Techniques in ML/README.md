@@ -12,6 +12,23 @@ The project demonstrates the implementation of K-Means clustering and compares i
 
 ---
 
+## Project Structure
+
+```text
+Clustering Techniques in ML/
+│
+├── clustering_analysis.ipynb
+|
+├── requirements.txt
+|
+├── README.md
+|
+└── report/
+    └── Clustering_Report.pdf
+```
+
+---
+
 ## Objectives
 
 * Understand the fundamentals of clustering techniques.
@@ -138,22 +155,6 @@ jupyter notebook
 
 ---
 
-## Project Structure
-
-```text
-Clustering Techniques in ML/
-│
-├── clustering_analysis.ipynb
-|
-├── requirements.txt
-|
-├── README.md
-|
-└── report/
-    └── Clustering_Report.pdf
-```
-
----
 
 ## Future Improvements
 
@@ -161,6 +162,3 @@ Clustering Techniques in ML/
 * Explore Gaussian Mixture Models (GMM).
 * Experiment with advanced clustering evaluation metrics.
 * Perform dimensionality reduction using PCA before clustering.
-
----
-
