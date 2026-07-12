@@ -89,10 +89,6 @@ Neural-Network-Classification/
 └── docs/
     └── architecture_report.md
 ```
-```
----
-
-```
 
 ```
 
