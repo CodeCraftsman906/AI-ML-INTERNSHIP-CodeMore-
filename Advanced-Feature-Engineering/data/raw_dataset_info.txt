@@ -1,0 +1,50 @@
+Dataset Name:
+Wine Quality Dataset
+
+Source:
+Kaggle
+
+Dataset Type:
+Classification
+
+Instances:
+1599
+
+Features:
+11 Numerical Features
+
+Target Variable:
+Quality
+
+Converted Target:
+Quality >= 6 → Good Wine (1)
+Quality < 6 → Poor Wine (0)
+
+Feature Names:
+- Fixed Acidity
+- Volatile Acidity
+- Citric Acid
+- Residual Sugar
+- Chlorides
+- Free Sulfur Dioxide
+- Total Sulfur Dioxide
+- Density
+- pH
+- Sulphates
+- Alcohol
+
+Missing Values:
+None
+
+Duplicate Records:
+Removed during preprocessing.
+
+Transformations Applied:
+- Standard Scaling
+- Polynomial Features
+- Interaction Features
+- Log Transformation
+- Box-Cox Transformation
+
+Model Used:
+Logistic Regression
