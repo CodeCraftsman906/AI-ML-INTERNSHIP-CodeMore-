@@ -1,5 +1,3 @@
-# README.md
-
 # Model Selection and Hyperparameter Tuning
 
 ## Project Overview
