@@ -88,8 +88,7 @@ Model_Selection_Hyperparameter_Tuning/
 ├── src/
 │   └── train_tuned_model.py
 │
-└── models/
-    └── best_model.pkl
+
 ```
 
 ---
