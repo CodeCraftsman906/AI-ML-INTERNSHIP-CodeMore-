@@ -1,0 +1,32 @@
+Dataset Name:
+Credit Card Fraud Detection Dataset
+
+Dataset Type:
+Binary Classification
+
+Target Variable:
+Class
+
+Class Labels:
+0 - Legitimate Transaction
+1 - Fraudulent Transaction
+
+Number of Features:
+30 input features and 1 target column.
+
+Feature Description:
+- V1 to V28: Principal Component Analysis (PCA) transformed features.
+- Time: Seconds elapsed between each transaction and the first transaction.
+- Amount: Transaction amount.
+- Class: Target variable indicating whether a transaction is fraudulent.
+
+Dataset Characteristics:
+- Highly imbalanced dataset.
+- Suitable for binary classification tasks.
+- Commonly used for fraud detection research and machine learning benchmarking.
+
+Preprocessing Performed:
+- Checked for missing values.
+- Removed duplicate records.
+- Split dataset into training and testing sets using stratified sampling.
+- No feature scaling was applied because tree-based algorithms are insensitive to feature scaling.
